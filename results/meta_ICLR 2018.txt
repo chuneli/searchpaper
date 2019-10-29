@@ -1,0 +1,8 @@
+Continuous Adaptation via Meta-Learning in Nonstationary and Competitive Environments
+Meta-Learning and Universality: Deep Representations and Gradient Descent can Approximate any Learning Algorithm
+Meta Learning Shared Hierarchies
+Meta-Learning for Semi-Supervised Few-Shot Classification
+Recasting Gradient-Based Meta-Learning as Hierarchical Bayes
+Understanding Short-Horizon Bias in Stochastic Meta-Optimization
+A Simple Neural Attentive Meta-Learner
+

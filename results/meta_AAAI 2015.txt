@@ -1,0 +1,3 @@
+Collaborative Topic Ranking: Leveraging Item Meta-Data for Sparsity Reduction
+Initializing Bayesian Hyperparameter Optimization via Meta-Learning
+

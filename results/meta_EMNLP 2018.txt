@@ -1,0 +1,5 @@
+Neural Metaphor Detection in Context
+Weeding out Conventionalized Metaphors: A Corpus of Novel Metaphor Annotations
+Dynamic Meta-Embeddings for Improved Sentence Representations
+Meta-Learning for Low-Resource Neural Machine Translation
+

@@ -1,0 +1,3 @@
+Semi-supervised Learning over Heterogeneous Information Networks by Ensemble of Meta-graph Guided Random Walks
+SAT-Based Approaches for the General High School Timetabling Problem
+

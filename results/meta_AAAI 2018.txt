@@ -1,0 +1,7 @@
+Coupled Poisson Factorization Integrated With User/Item Metadata for Modeling Popular and Sparse Ratings in Scalable Recommendation
+Learning to Generalize: Meta-Learning for Domain Generalization
+Meta Multi-Task Learning for Sequence Modeling
+Exploring the Terrain of Metaphor Novelty: A Regression-Based Approach for Automatically Scoring Metaphors
+Meta-Search Through the Space of Representations and Heuristics on a Problem by Problem Basis
+An Automated Employee Timetabling System for Small Businesses
+

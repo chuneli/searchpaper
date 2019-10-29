@@ -1,0 +1,3 @@
+Expressive Description Logic with Instantiation Metamodelling
+A Higher-Order Semantics for Metaquerying in OWL 2 QL
+

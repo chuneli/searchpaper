@@ -1,0 +1,6 @@
+Literal and Metaphorical Senses in Compositional Distributional Semantic Models
+Metaphor Detection with Topic Transition, Emotion and Cognition in Context
+Learning Word Meta-Embeddings
+
+Semantic classifications for detection of verb metaphors
+

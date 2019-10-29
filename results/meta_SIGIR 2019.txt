@@ -1,0 +1,3 @@
+Similarity-Based Synthetic Document Representations for Meta-Feature Generation in Text Classification
+M-HIN: Complex Embeddings for Heterogeneous Information Networks via Metagraphs
+

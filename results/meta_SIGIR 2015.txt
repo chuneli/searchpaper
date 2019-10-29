@@ -1,0 +1,4 @@
+An Efficient and Scalable MetaFeature-based Document Classification Approach based on Massively Parallel Computing
+Using Sensor Metadata Streams to Identify Topics of Local Events in the City
+Cost-Aware Result Caching for Meta-Search Engines
+
