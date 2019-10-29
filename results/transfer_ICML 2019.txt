@@ -1,0 +1,10 @@
+TibGM: A Transferable and Information-Based Graphical Model Approach for Reinforcement Learning
+Transferability vs. Discriminability: Batch Spectral Penalization for Adversarial Domain Adaptation
+Transfer Learning for Related Reinforcement Learning Tasks via Image-to-Image Translation
+Parameter-Efficient Transfer Learning for NLP
+Learning What and Where to Transfer
+Transferable Adversarial Training: A General Approach to Adapting Deep Classifiers
+AutoVC: Zero-Shot Voice Style Transfer with Only Autoencoder Loss
+Transfer of Samples in Policy Search via Multiple Importance Sampling
+Transferable Clean-Label Poisoning Attacks on Deep Neural Nets
+

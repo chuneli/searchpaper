@@ -1,0 +1,6 @@
+A Universal Framework for Inductive Transfer Parsing across Multi-typed Treebanks
+Zero-resource Dependency Parsing: Boosting Delexicalized Cross-lingual Transfer with Linguistic Knowledge
+A Bayesian model for joint word alignment and part-of-speech transfer
+Cross-lingual Transfer of Correlations between Parts of Speech and Gaze Features
+Predicting proficiency levels in learner writings by transferring a linguistic complexity model from expert-written coursebooks
+

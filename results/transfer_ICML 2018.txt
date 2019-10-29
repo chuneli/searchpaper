@@ -1,0 +1,12 @@
+Policy and Value Transfer in Lifelong Reinforcement Learning
+Transfer in Deep Reinforcement Learning Using Successor Features and Generalised Policy Improvement
+Inductive Two-layer Modeling with Parametric Bregman Transfer
+Explicit Inductive Bias for Transfer Learning with Convolutional Networks
+Learning Adversarially Fair and Transferable Representations
+Towards End-to-End Prosody Transfer for Expressive Speech Synthesis with Tacotron
+Knowledge Transfer with Jacobian Matching
+Importance Weighted Transfer of Samples in Reinforcement Learning
+Transfer Learning via Learning to Transfer
+Style Tokens: Unsupervised Style Modeling, Control and Transfer in End-to-End Speech Synthesis
+Curriculum Learning by Transfer Learning: Theory and Experiments with Deep Networks
+

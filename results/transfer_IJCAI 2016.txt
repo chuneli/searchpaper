@@ -1,0 +1,12 @@
+Hierarchical Approach to Transfer of Control in Semi-Autonomous Systems
+Semi-Supervised Active Learning with Cross-Class Sample Transfer
+Transfer Learning with Active Queries from Source Domain
+Using Task Features for Zero-Shot Knowledge Transfer in Lifelong Learning
+Theoretically-Grounded Policy Advice from Multiple Teachers in Reinforcement Learning Settings with Applications to Negative Transfer
+Transfer Hashing with Privileged Information
+Makeup Like a Superstar: Deep Localized Makeup Transfer Network
+Personalizing EEG-Based Affective Models with Transfer Learning
+Saliency Transfer: An Example-Based Method for Salient Object Detection
+Transfer Learning for Multiagent Reinforcement Learning Systems
+A Framework for Anomaly Reasoning: Interpretation through Concept Formation for Knowledge Transfer and Lifelong Learning
+

@@ -1,0 +1,11 @@
+Non-vacuous Generalization Bounds at the ImageNet Scale: a PAC-Bayesian Compression Approach
+Energy-Constrained Compression for Deep Neural Networks via Weighted Sparse Projection and Layer Input Masking
+Data-Dependent Coresets for Compressing Neural Networks with Applications to Generalization Bounds
+Double Viterbi: Weight Encoding for High Compression Ratio and Fast On-Chip Reconstruction for Deep Neural Network
+Context-adaptive Entropy Model for End-to-end Optimized Image Compression
+Learnable Embedding Space for Efficient Neural Architecture Compression
+Integer Networks for Data Compression with Latent-Variable Models
+Adaptive Estimators Show Information Compression in Deep Neural Networks
+Minimal Random Code Learning: Getting Bits Back from Compressed Model Parameters
+Practical lossless compression with latent variables using bits back coding
+

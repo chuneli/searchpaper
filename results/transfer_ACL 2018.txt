@@ -1,0 +1,9 @@
+Style Transfer Through Back-Translation
+Identifying Transferable Information Across Domains for Cross-domain Sentiment Classification
+Isomorphic Transfer of Syntactic Structures in Cross-Lingual NLP
+Zero-Shot Transfer Learning for Event Extraction
+A Helping Hand: Transfer Learning for Deep Sentiment Analysis
+
+Fighting Offensive Language on Social Media with Unsupervised Text Style Transfer
+Transfer Learning for Context-Aware Question Matching in Information-seeking Conversations in E-commerce
+

@@ -1,0 +1,6 @@
+Transfer Learning for a Letter-Ngrams to Word Decoder in the Context of Historical Handwriting Recognition with Scarce Resources
+Visual Question Answering Dataset for Bilingual Image Understanding: A Study of Cross-Lingual Transfer Using Attention Maps
+Transfer Learning for Entity Recognition of Novel Classes
+Source Critical Reinforcement Learning for Transferring Spoken Language Understanding to a New Language
+Adaptive Multi-Task Transfer Learning for Chinese Word Segmentation in Medical Text
+

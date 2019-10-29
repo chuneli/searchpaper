@@ -1,0 +1,5 @@
+End-to-end Optimized Image Compression
+Soft Weight-Sharing for Neural Network Compression
+Training Compressed Fully-Connected Networks with a Density-Diversity Penalty
+Lossy Image Compression with Compressive Autoencoders
+

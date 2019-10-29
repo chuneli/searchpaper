@@ -1,0 +1,14 @@
+Knowledge Graph Completion with Adaptive Sparse Transfer Matrix
+Towards Domain Adaptive Vehicle Detection in Satellite Image by Supervised Super-Resolution Transfer
+Instilling Social to Physical: Co-Regularized Heterogeneous Transfer Learning
+Collective Noise Contrastive Estimation for Policy Transfer Learning
+Knowledge Transfer with Interactive Learning of Semantic Relationships
+Active Learning with Cross-Class Knowledge Transfer
+Relational Knowledge Transfer for Zero-Shot Learning
+Learning by Transferring from Unsupervised Universal Sources
+Transfer Learning for Cross-Language Text Categorization through Active Correspondences Construction
+A Representation Learning Framework for Multi-Source Transfer Parsing
+Multi-Agent Path Finding with Payload Transfers and the Package-Exchange Robot-Routing Problem
+Domain-Constraint Transfer Coding for Imbalanced Unsupervised Domain Adaptation
+Transfer Learning from Deep Features for Remote Sensing and Poverty Mapping
+

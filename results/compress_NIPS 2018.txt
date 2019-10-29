@@ -1,0 +1,8 @@
+Paraphrasing Complex Network: Network Compression via Factor Transfer
+Nearly tight sample complexity bounds for learning mixtures of Gaussians via sample compression schemes
+Deep Generative Models for Distribution-Preserving Lossy Compression
+Communication Compression for Decentralized Training
+Learning Compressed Transforms with Low Displacement Rank
+Neural Proximal Gradient Descent for Compressive Imaging
+Joint Autoregressive and Hierarchical Priors for Learned Image Compression
+

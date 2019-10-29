@@ -1,0 +1,9 @@
+Semi-supervised Knowledge Transfer for Deep Learning from Private Training Data
+Paying More Attention to Attention: Improving the Performance of Convolutional Neural Networks via Attention Transfer
+Learning Invariant Feature Spaces to Transfer Skills with Reinforcement Learning
+Transfer of View-manifold Learning to Similarity Perception of Novel Objects
+Transfer Learning for Sequence Tagging with Hierarchical Recurrent Networks
+Attend, Adapt and Transfer: Attentive Deep Architecture for Adaptive Transfer from multiple sources in the same domain
+Online Bayesian Transfer Learning for Sequential Data Modeling
+Delving into Transferable Adversarial Examples and Black-box Attacks
+

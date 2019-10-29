@@ -1,0 +1,4 @@
+Cooperative Pruning in Cross-Domain Deep Neural Network Compression
+Play and Prune: Adaptive Filter Pruning for Deep Model Compression
+COP: Customized Deep Model Compression via Regularized Correlation-Based Filter-Level Pruning
+

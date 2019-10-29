@@ -1,0 +1,14 @@
+Categorical Feature Compression via Submodular Optimization
+Rethinking Lossy Compression: The Rate-Distortion-Perception Tradeoff
+Rate Distortion For Model Compression: From Theory To Practice
+Error Feedback Fixes SignSGD and other Gradient Compression Schemes
+Bit-Swap: Recursive Bits-Back Coding for Lossless Compression with Hierarchical Latent Variables
+Decentralized Stochastic Optimization and Gossip Algorithms with Compressed Communication
+LIT: Learned Intermediate Representation Training for Model Compression
+Compressed Factorization: Fast and Accurate Low-Rank Factorization of Compressively-Sensed Data
+Fast Direct Search in an Optimally Compressed Continuous Target Space for Efficient Multi-Label Active Learning
+Compressing Gradient Optimizers via Count-Sketches
+DoubleSqueeze: Parallel Stochastic Gradient Descent with Double-pass Error-Compensated Compression
+Learning a Compressed Sensing Measurement Matrix via Gradient Unrolling
+Deep Compressed Sensing
+

@@ -1,0 +1,6 @@
+DARLA: Improving Zero-Shot Transfer in Reinforcement Learning
+Schema Networks: Zero-shot Transfer with a Generative Causal Model of Intuitive Physics
+Deep Transfer Learning with Joint Adaptation Networks
+Risk Bounds for Transferring Representations With and Without Fine-Tuning
+Source-Target Similarity Modelings for Multi-Source Transfer Gaussian Process Regression
+

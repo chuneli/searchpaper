@@ -4,7 +4,9 @@ import codecs
 from requests.exceptions import RequestException
 import re
 
-keyword = 'meta'
+# keyword = 'meta'
+# keyword = 'transfer'
+keyword = 'compress'
 download = False
 
 def get_one_page(url):

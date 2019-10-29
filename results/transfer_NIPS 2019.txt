@@ -1,0 +1,21 @@
+ETNet: Error Transition Network for Arbitrary Style Transfer
+Catastrophic Forgetting Meets Negative Transfer: Batch Spectral Shrinkage for Safe Transfer Learning
+Transferable Normalization: Towards Improving Transferability of Deep Neural Networks
+Transfer Anomaly Detection by Inferring Latent Domain Representations
+Learning Transferable Graph Exploration
+Transfusion: Understanding Transfer Learning for Medical Imaging
+Learning New Tricks From Old Dogs: Multi-Source Transfer Learning From Pre-Trained Networks
+Generalized Block-Diagonal Structure Pursuit: Learning Soft Latent Task Assignment against Negative Transfer
+Deep Model Transferability from Attribution Maps
+Hyperparameter Learning via Distributional Transfer
+Better Transfer Learning Through Inferred Successor Maps
+Zero-shot Knowledge Transfer via Adversarial Belief Matching
+Evaluating Protein Transfer Learning with TAPE
+Transfer Learning via Boosting to Minimize the Performance Gap Between Domains
+Improving Black-box Adversarial Attacks with a Transfer-based Prior
+Controllable Unsupervised Text Attribute Transfer via Editing Entangled Latent Representation
+Learning search spaces for Bayesian optimization: Another view of hyperparameter transfer learning
+Cross-Domain Transferable Perturbations
+Sim2real transfer learning for 3D pose estimation: motion to the rescue
+On the Role of Inductive Bias From Simulation and the Transfer to the Real World: a new Disentanglement Dataset
+

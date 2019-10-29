@@ -1,0 +1,21 @@
+Deep Asymmetric Transfer Network for Unbalanced Domain Adaptation
+Style Transfer in Text: Exploration and Evaluation
+Transferring Decomposed Tensors for Scalable Energy Breakdown Across Regions
+Machine-Translated Knowledge Transfer for Commonsense Causal Reasoning
+LSTD: A Low-Shot Transfer Detector for Object Detection
+DarkRank: Accelerating Deep Metric Learning via Cross Sample Similarities Transfer
+Transferable Contextual Bandit for Cross-Domain Recommendation
+Gaussian Process Decentralized Data Fusion Meets Transfer Learning in Large-Scale Distributed Cooperative Perception
+Learning Transferable Subspace for Human Motion Segmentation
+Personalizing a Dialogue System With Transfer Reinforcement Learning
+Few Shot Transfer Learning BetweenWord Relatedness and Similarity Tasks Using A Gated Recurrent Siamese Network
+Dual Transfer Learning for Neural Machine Translation with Marginal Distribution Regularization
+Hierarchical Attention Transfer Network for Cross-Domain Sentiment Classification
+Transfer Adversarial Hashing for Hamming Space Retrieval
+Multispectral Transfer Network: Unsupervised Depth Estimation for All-Day Vision
+Asking Friendly Strangers: Non-Semantic Attribute Transfer
+Transferable Semi-Supervised Semantic Segmentation
+Graph Correspondence Transfer for Person Re-Identification
+Enhancing RNN Based OCR by Transductive Transfer Learning From Text to Images
+Label Space Driven Heterogeneous Transfer Learning With Web Induced Alignment
+

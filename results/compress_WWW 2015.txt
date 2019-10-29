@@ -1,0 +1,2 @@
+Compressed Indexes for String Searching in Labeled Graphs
+

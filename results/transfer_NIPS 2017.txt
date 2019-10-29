@@ -1,0 +1,9 @@
+Label Efficient Learning of Transferable Representations acrosss Domains and Tasks
+Best of Both Worlds: Transferring Knowledge from Discriminative Learning to a Generative Visual Dialog Model
+Universal Style Transfer via Feature Transforms
+Hypothesis Transfer Learning via Transformation Functions
+Matching neural paths: transfer from recognition to correspondence search
+Successor Features for Transfer in Reinforcement Learning
+Robust and Efficient Transfer Learning with Hidden Parameter Markov Decision Processes
+Style Transfer from Non-Parallel Text by Cross-Alignment
+

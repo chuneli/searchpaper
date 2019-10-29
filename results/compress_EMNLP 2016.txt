@@ -1,0 +1,3 @@
+Language as a Latent Variable: Discrete Generative Models for Sentence Compression
+A Dataset and Evaluation Metrics for Abstractive Compression of Sentences and Short Paragraphs
+

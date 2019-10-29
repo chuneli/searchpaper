@@ -1,0 +1,8 @@
+Compression-aware Training of Deep Networks
+Soft-to-Hard Vector Quantization for End-to-End Learning Compressible Representations
+Learning to Inpaint for Image Compression
+Nearest-Neighbor Sample Compression: Efficiency, Consistency, Infinite Dimensions
+Learned D-AMP: Principled Neural Network based Compressive Image Recovery
+Practical Data-Dependent Metric Compression with Provable Guarantees
+Bayesian Compression for Deep Learning
+

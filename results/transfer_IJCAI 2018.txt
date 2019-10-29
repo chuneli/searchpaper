@@ -1,0 +1,9 @@
+Better and Faster: Knowledge Transfer from Multiple Self-supervised Learning Tasks via Graph Distillation for Video Classification
+Classification Transfer for Qualitative Reasoning Problems
+Summarizing Source Code with Transferred API Knowledge
+Online Heterogeneous Transfer Metric Learning
+From Reality to Perception: Genre-Based Neural Image Style Transfer
+Improving Low Resource Named Entity Recognition using Cross-lingual Knowledge Transfer
+Goal-Oriented Chatbot Dialog Management Bootstrapping with Transfer Learning
+Learning Transferable UAV for Forest Visual Perception
+

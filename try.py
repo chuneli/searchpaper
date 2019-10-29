@@ -20,14 +20,16 @@ def get_one_page(url):
 
 
 resouce={
-    'publication': 'EMNLP 2019',
-    'urllist': ['https://www.emnlp-ijcnlp2019.org/program/accepted/'],
-    'titlepatten': '<li><span style="color:cornflowerblue">(.*?)</span>',
+    'publication': 'ICML 2019',
+    'urllist': ['https://dblp.org/db/conf/icml/icml2019'],
+    'titlepatten': '<span class="title" itemprop="name">(.*?).</span> ',
+    'pagepatten': '<div class="head"><a href="(.*?)"><img alt="" src="https://dblp.org/img/paper.dark.hollow.16x16.png" class="icon" itemprop="image"></a></div>',
 }
 publication=resouce['publication']
 urllist=resouce['urllist']
 titlepatten=resouce['titlepatten']
 keyword='meta'
+
 
 for url in urllist:
     html = get_one_page(url)

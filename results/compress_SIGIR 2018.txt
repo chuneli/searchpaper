@@ -1,0 +1,2 @@
+Index Compression for BitFunnel Query Processing
+

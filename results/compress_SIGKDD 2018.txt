@@ -1,0 +1,4 @@
+SHIELD: Fast, Practical Defense and Vaccination for Deep Learning using JPEG Compression
+Towards Evolutionary Compression
+REST: A Reference-based Framework for Spatio-temporal Trajectory Compression
+

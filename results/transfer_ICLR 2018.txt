@@ -1,0 +1,3 @@
+Learning an Embedding Space for Transferable Robot Skills
+Learning to cluster in order to transfer across domains and tasks
+

@@ -1,0 +1,4 @@
+Complexity Results for Compressing Optimal Paths
+Value-Directed Compression of Large-Scale Assignment Problems
+Compress and Control
+

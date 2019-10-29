@@ -1,0 +1,15 @@
+Adapted Deep Embeddings: A Synthesis of Methods for k-Shot Inductive Transfer Learning
+Synthesize Policies for Transfer and Adaptation across Tasks and Environments
+Zero-Shot Transfer with Deictic Object-Oriented Representation in Reinforcement Learning
+Paraphrasing Complex Network: Network Compression via Factor Transfer
+Transfer Learning from Speaker Verification to Multispeaker Text-To-Speech Synthesis
+MacNet: Transferring Knowledge from Machine Comprehension to Sequence-to-Sequence Models
+Transfer of Value Functions via Variational Methods
+Scalable Hyperparameter Transfer Learning
+Stimulus domain transfer in recurrent models for large scale cortical population prediction on video
+Unsupervised Text Style Transfer using Language Models as Discriminators
+Transfer Learning with Neural AutoML
+GLoMo: Unsupervised Learning of Transferable Relational Graphs
+Hardware Conditioned Policies for Multi-Robot Transfer Learning
+Transfer of Deep Reactive Policies for MDP Planning
+

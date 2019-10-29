@@ -1,0 +1,8 @@
+Stronger Generalization Bounds for Deep Nets via a Compression Approach
+SIGNSGD: Compressed Optimisation for Non-Convex Problems
+Compressing Neural Networks using the Variational Information Bottleneck
+Modeling Sparse Deviations for Compressed Sensing using Generative Models
+Weightless: Lossy weight encoding for deep neural network compression
+Progress &#38; Compress: A scalable framework for continual learning
+Deep k-Means: Re-Training and Parameter Sharing with Harder Cluster Assignments for Compressing Deep Convolutions
+

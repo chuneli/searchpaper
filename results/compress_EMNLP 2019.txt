@@ -1,0 +1,5 @@
+MulCode: A Multiplicative Multi-way Model for Compressing Neural Language Model
+Neural Extractive Text Summarization with Syntactic Compression
+Patient Knowledge Distillation for BERT Model Compression
+Query-focused Sentence Compression in Linear Time
+

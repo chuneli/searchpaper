@@ -1,0 +1,25 @@
+Massively Multilingual Transfer for NER
+Disentangled Representation Learning for Non-Parallel Text Style Transfer
+Transfer Capsule Network for Aspect Level Sentiment Classification
+A Cross-Domain Transferable Neural Coherence Model
+Transferable Multi-Domain State Generator for Task-Oriented Dialogue Systems
+Effective Cross-lingual Transfer of Neural Machine Translation Models without Shared Vocabularies
+Soft Representation Learning for Sparse Transfer
+Towards Fine-grained Text Sentiment Transfer
+A Simple and Effective Approach to Automatic Post-Editing with Transfer Learning
+Multi-Source Cross-Lingual Model Transfer: Learning What to Share
+Choosing Transfer Languages for Cross-Lingual Learning
+Cross-Lingual Syntactic Transfer through Unsupervised Adaptation of Invertible Projections
+Dual Adversarial Neural Transfer for Low-Resource Named Entity Recognition
+Improved Sentiment Detection via Label Transfer from Monolingual to Synthetic Code-Switched Text
+Learning Transferable Feature Representations Using Neural Networks
+An Investigation of Transfer Learning-Based Sentiment Analysis in Japanese
+A Hierarchical Reinforced Sequence Operation Method for Unsupervised Text Style Transfer
+MultiQA: An Empirical Investigation of Generalization and Transfer in Reading Comprehension
+Low-resource Deep Entity Resolution with Transfer and Active Learning
+Style Transformer: Unpaired Text Style Transfer without Disentangled Latent Representation
+Large-Scale Transfer Learning for Natural Language Generation
+Hierarchical Transfer Learning for Multi-label Text Classification
+
+Transfer Learning Based Free-Form Speech Command Classification for Low-Resource Languages
+

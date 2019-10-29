@@ -1,0 +1,6 @@
+A Multi-media Approach to Cross-lingual Entity Knowledge Transfer
+Language Transfer Learning for Supervised Lexical Substitution
+Bi-Transferring Deep Neural Networks for Domain Adaptation
+Cross-Lingual Lexico-Semantic Transfer in Language Learning
+
+

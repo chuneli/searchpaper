@@ -1,0 +1,5 @@
+Learning to select data for transfer learning with Bayesian Optimization
+Two-Stage Synthesis Networks for Transfer Learning in Machine Comprehension
+Cross-Lingual Induction and Transfer of Verb Classes Based on Word Vector Space Specialisation
+Cross-Lingual Transfer Learning for POS Tagging without Cross-Lingual Resources
+
