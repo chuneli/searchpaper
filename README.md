@@ -1,7 +1,8 @@
 # searchpaper
-given keywords and paper list url, get seleted paper
+Given a keyword and paper list url, get lists of paper with title containing the keyword.
+Titles are listed in the fold results. Statistical results are output on console.
 
-results for "meta":
+Statisitcal results for "meta":
 
     	2015	2016	2017	2018	2019	total
     AAAI	2   	4   	2   	6   	10   	24
@@ -20,3 +21,9 @@ results for "meta":
     UAI	    	    	    	2   	    	2
     WWW 	1    	1   	    	2   	1   	5
     total	15   	21   	18   	54   	97   	205
+
+
+
+Next:
+multiple keywords search
+download .pdf
