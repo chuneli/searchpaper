@@ -65,4 +65,6 @@ results for "compress"：
     WWW	1   	    	    	    	    	1
     total	21   	27   	33   	43   	53   	177
     
-    
+   Next:
+- multiple keywords search
+- download .pdf

@@ -2,151 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2383ecc3-f324-41a2-bfe2-54a428a02944" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/oneli.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/compress_AAAI 2015.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/compress_AAAI 2016.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/compress_AAAI 2017.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/compress_AAAI 2018.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/compress_AAAI 2019.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/compress_ACL 2015.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/compress_ACL 2016.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/compress_ACL 2017.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/compress_ACL 2018.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/compress_ACL 2019.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/compress_CLOT 2015.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/compress_CLOT 2016.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/compress_CLOT 2017.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/compress_CLOT 2018.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/compress_CLOT 2019.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/compress_COLING 2016.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/compress_COLING 2018.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/compress_EMNLP 2015.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/compress_EMNLP 2016.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/compress_EMNLP 2017.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/compress_EMNLP 2018.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/compress_EMNLP 2019.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/compress_ICDE 2015.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/compress_ICDE 2016.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/compress_ICDE 2017.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/compress_ICDE 2018.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/compress_ICDE 2019.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/compress_ICLR 2015.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/compress_ICLR 2016.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/compress_ICLR 2017.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/compress_ICLR 2018.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/compress_ICLR 2019.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/compress_ICML 2015.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/compress_ICML 2016.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/compress_ICML 2017.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/compress_ICML 2018.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/compress_ICML 2019.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/compress_IJCAI 2015.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/compress_IJCAI 2016.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/compress_IJCAI 2017.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/compress_IJCAI 2018.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/compress_IJCAI 2019.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/compress_KR 2016.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/compress_KR 2018.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/compress_NIPS 2015.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/compress_NIPS 2016.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/compress_NIPS 2017.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/compress_NIPS 2018.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/compress_NIPS 2019.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/compress_SIGIR 2015.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/compress_SIGIR 2016.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/compress_SIGIR 2017.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/compress_SIGIR 2018.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/compress_SIGIR 2019.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/compress_SIGKDD 2015.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/compress_SIGKDD 2016.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/compress_SIGKDD 2017.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/compress_SIGKDD 2018.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/compress_SIGKDD 2019.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/compress_UAI 2015.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/compress_UAI 2016.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/compress_UAI 2017.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/compress_UAI 2018.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/compress_UAI 2019.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/compress_WWW 2015.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/compress_WWW 2016.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/compress_WWW 2017.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/compress_WWW 2018.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/compress_WWW 2019.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/transfer_AAAI 2015.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/transfer_AAAI 2016.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/transfer_AAAI 2017.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/transfer_AAAI 2018.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/transfer_AAAI 2019.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/transfer_ACL 2015.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/transfer_ACL 2016.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/transfer_ACL 2017.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/transfer_ACL 2018.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/transfer_ACL 2019.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/transfer_CLOT 2015.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/transfer_CLOT 2016.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/transfer_CLOT 2017.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/transfer_CLOT 2018.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/transfer_CLOT 2019.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/transfer_COLING 2016.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/transfer_COLING 2018.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/transfer_EMNLP 2015.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/transfer_EMNLP 2016.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/transfer_EMNLP 2017.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/transfer_EMNLP 2018.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/transfer_EMNLP 2019.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/transfer_ICDE 2015.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/transfer_ICDE 2016.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/transfer_ICDE 2017.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/transfer_ICDE 2018.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/transfer_ICDE 2019.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/transfer_ICLR 2015.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/transfer_ICLR 2016.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/transfer_ICLR 2017.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/transfer_ICLR 2018.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/transfer_ICLR 2019.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/transfer_ICML 2015.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/transfer_ICML 2016.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/transfer_ICML 2017.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/transfer_ICML 2018.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/transfer_ICML 2019.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/transfer_IJCAI 2015.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/transfer_IJCAI 2016.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/transfer_IJCAI 2017.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/transfer_IJCAI 2018.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/transfer_IJCAI 2019.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/transfer_KR 2016.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/transfer_KR 2018.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/transfer_NIPS 2015.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/transfer_NIPS 2016.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/transfer_NIPS 2017.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/transfer_NIPS 2018.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/transfer_NIPS 2019.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/transfer_SIGIR 2015.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/transfer_SIGIR 2016.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/transfer_SIGIR 2017.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/transfer_SIGIR 2018.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/transfer_SIGIR 2019.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/transfer_SIGKDD 2015.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/transfer_SIGKDD 2016.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/transfer_SIGKDD 2017.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/transfer_SIGKDD 2018.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/transfer_SIGKDD 2019.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/transfer_UAI 2015.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/transfer_UAI 2016.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/transfer_UAI 2017.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/transfer_UAI 2018.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/transfer_UAI 2019.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/transfer_WWW 2015.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/transfer_WWW 2016.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/transfer_WWW 2017.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/transfer_WWW 2018.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/transfer_WWW 2019.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testxpath.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xpathdemo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/try.py" beforeDir="false" afterPath="$PROJECT_DIR$/try.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -177,8 +33,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="120">
-                <caret line="4" selection-start-line="4" selection-end-line="4" />
+              <first_editor relative-caret-position="558">
+                <caret line="69" column="15" lean-forward="true" selection-start-line="69" selection-start-column="15" selection-end-line="69" selection-end-column="15" />
               </first_editor>
               <second_editor />
             </state>
@@ -374,23 +230,31 @@
       <updated>1572332592830</updated>
       <workItem from="1572332598252" duration="3239000" />
       <workItem from="1572343676759" duration="2447000" />
-      <workItem from="1572347416771" duration="1018000" />
+      <workItem from="1572347416771" duration="1200000" />
     </task>
+    <task id="LOCAL-00001" summary="update transfer, compress results">
+      <created>1572348770470</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1572348770470</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6704000" />
+    <option name="totallyTimeSpent" value="6886000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18123667" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18123667" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.19414316" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.19414316" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -412,6 +276,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update transfer, compress results" />
+    <option name="LAST_COMMIT_MESSAGE" value="update transfer, compress results" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/results/meta_COLING 2018.txt">
@@ -487,8 +355,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="120">
-            <caret line="4" selection-start-line="4" selection-end-line="4" />
+          <first_editor relative-caret-position="558">
+            <caret line="69" column="15" lean-forward="true" selection-start-line="69" selection-start-column="15" selection-end-line="69" selection-end-column="15" />
           </first_editor>
           <second_editor />
         </state>
