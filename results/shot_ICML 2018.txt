@@ -1,0 +1,4 @@
+Understanding and Simplifying One-Shot Architecture Search
+One-Shot Segmentation in Clutter
+MSplit LBI: Realizing Feature Selection and Dense Estimation Simultaneously in Few-shot and Zero-shot Learning
+

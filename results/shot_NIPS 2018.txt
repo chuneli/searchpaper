@@ -1,0 +1,12 @@
+Adapted Deep Embeddings: A Synthesis of Methods for k-Shot Inductive Transfer Learning
+TADAM: Task dependent adaptive metric for improved few-shot learning
+Low-shot Learning via Covariance-Preserving Adversarial Augmentation Networks
+Domain-Invariant Projection Learning for Zero-Shot Recognition
+Generalized Zero-Shot Learning with Deep Calibration Network
+One-Shot Unsupervised Cross Domain Translation
+Zero-Shot Transfer with Deictic Object-Oriented Representation in Reinforcement Learning
+MetaGAN: An Adversarial Approach to Few-Shot Learning
+Delta-encoder: an effective sample synthesis method for few-shot object recognition
+Stacked Semantics-Guided Attention Model for Fine-Grained Zero-Shot Learning
+Hierarchical Reinforcement Learning for Zero-shot Generalization with Subtask Dependencies
+

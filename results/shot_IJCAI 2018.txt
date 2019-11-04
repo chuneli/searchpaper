@@ -1,0 +1,7 @@
+Dual Adversarial Networks for Zero-shot Cross-media Retrieval
+Annotation-Free and One-Shot Learning for Instance Segmentation of Homogeneous Object Clusters
+Visual Data Synthesis via GAN for Zero-Shot Video Classification
+Single-Shot Epistemic Logic Program Solving
+Zero Shot Learning via Low-rank Embedded Semantic AutoEncoder
+Recursive Spoken Instruction-Based One-Shot Object and Action Learning
+

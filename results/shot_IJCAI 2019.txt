@@ -1,0 +1,10 @@
+Generalized Zero-Shot Vehicle Detection in Remote Sensing Imagery via Coarse-to-Fine Framework
+Low Shot Box Correction for Weakly Supervised Object Detection
+Zero-shot Learning with Many Classes by High-rank Deep Embedding Networks
+Landmark Selection for Zero-shot Learning
+Prototype Propagation Networks (PPN) for Weakly-supervised Few-shot Learning on Category Graph
+Graph and Autoencoder Based Feature Extraction for Zero-shot Learning
+Incremental Few-Shot Learning for Pedestrian Attribute Recognition
+Zero-shot Metric Learning
+One-Shot Texture Retrieval with Global Context Metric
+

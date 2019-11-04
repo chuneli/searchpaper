@@ -1,0 +1,2 @@
+Consistent Snapshot Algorithms for In-Memory Database Systems: Experiments and Analysis
+

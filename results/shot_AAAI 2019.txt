@@ -1,0 +1,20 @@
+Zero Shot Learning for Code Education: Rubric Sampling with Deep Learning Inference
+AffinityNet: Semi-Supervised Few-Shot Learning for Disease Type Prediction
+Image Block Augmentation for One-Shot Learning
+From Zero-Shot Learning to Cold-Start Recommendation
+Hybrid Attention-Based Prototypical Networks for Noisy Few-Shot Relation Classification
+Zero-Shot Adaptive Transfer for Conversational Language Understanding
+Zero-Shot Neural Transfer for Cross-Lingual Entity Linking
+Energy Confused Adversarial Metric Learning for Zero-Shot Image Retrieval and Clustering
+I Know the Relationships: Zero-Shot Action Recognition via Two-Stream Graph Convolutional Networks and Knowledge Graphs
+Dual-View Ranking with Hardness Assessment for Zero-Shot Learning
+Attention-Based Multi-Context Guiding for Few-Shot Semantic Segmentation
+Few-Shot Image and Sentence Matching via Gated Visual-Semantic Embedding
+Distribution Consistency Based Covariance Metric Networks for Few-Shot Learning
+Zero-Shot Object Detection with Textual Descriptions
+Learning to Compose Topic-Aware Mixture of Experts for Zero-Shot Video Captioning
+A Dual Attention Network with Semantic Embedding for Few-Shot Learning
+M2Det: A Single-Shot Object Detector Based on Multi-Level Feature Pyramid Network
+A Fast Machine Learning Workflow for Rapid Phenotype Prediction from Whole Shotgun Metagenomes
+Transductive Zero-Shot Learning via Visual Center Adaptation
+

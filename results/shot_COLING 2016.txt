@@ -1,0 +1,2 @@
+Label Embedding for Zero-shot Fine-grained Named Entity Typing
+

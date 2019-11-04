@@ -1,0 +1,14 @@
+Benchmarking Zero-shot Text Classification: Datasets, Evaluation and Entailment Approach
+Combining Unsupervised Pre-training and Annotator Rationales to Improve Low-shot Text Classification
+Hierarchical Attention Prototypical Networks for Few-Shot Text Classification
+Induction Networks for Few-Shot Text Classification
+Look-up and Adapt: A One-shot Semantic Parser
+Meta Relational Learning for Few-Shot Link Prediction in Knowledge Graphs
+Reconstructing Capsule Networks for Zero-shot Intent Classification
+Towards Zero-shot Language Modelling
+Adapting Meta Knowledge Graph Information for Multi-Hop Reasoning over Few-Shot Relations
+Cross-Lingual BERT Transformation for Zero-Shot Dependency Parsing
+FewRel 2.0: Towards More Challenging Few-Shot Relation Classification
+Zero-shot Cross-lingual Dialogue Systems with Transferable Latent Variables
+Zero-shot Reading Comprehension by Cross-lingual Transfer Learning with Multi-lingual Language Representation Model
+

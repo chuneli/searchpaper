@@ -6,8 +6,10 @@ import re
 
 # keyword = 'meta'
 # keyword = 'transfer'
-keyword = 'compress'
+# keyword = 'compress'
+keyword = 'shot'
 download = False
+
 
 def get_one_page(url):
     try:

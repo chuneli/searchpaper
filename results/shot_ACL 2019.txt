@@ -1,0 +1,10 @@
+Improved Zero-shot Neural Machine Translation via Ignoring Spurious Correlations
+Multi-Level Matching and Aggregation Network for Few-Shot Relation Classification
+Zero-Shot Cross-Lingual Abstractive Sentence Summarization through Teaching Generation and Attention
+Zero-Shot Entity Linking by Reading Entity Descriptions
+Few-Shot Representation Learning for Out-Of-Vocabulary Words
+Zero-Shot Semantic Parsing for Instructions
+Robust Zero-Shot Cross-Domain Slot Filling with Example Values
+Zero-shot Word Sense Disambiguation using Sense Definition Embeddings
+
+

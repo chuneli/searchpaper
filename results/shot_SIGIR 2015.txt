@@ -1,0 +1,2 @@
+Zero-shot Image Tagging by Hierarchical Semantic Embedding
+

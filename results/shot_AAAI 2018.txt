@@ -1,0 +1,10 @@
+Adversarial Zero-shot Learning With Semantic Augmentation
+LSTD: A Low-Shot Transfer Detector for Object Detection
+Joint Dictionaries for Zero-Shot Learning
+Zero-Shot Learning via Class-Conditioned Deep Generative Models
+Efficient K-Shot Learning With Regularized Deep Networks
+Few Shot Transfer Learning BetweenWord Relatedness and Similarity Tasks Using A Gated Recurrent Siamese Network
+Zero-Shot Learning With Attribute Selection
+Deep Semantic Structural Constraints for Zero-Shot Learning
+Towards Affordable Semantic Searching: Zero-Shot Retrieval via Dominant Attributes
+

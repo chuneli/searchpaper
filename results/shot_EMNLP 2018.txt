@@ -1,0 +1,9 @@
+Adversarial Propagation and Zero-Shot Cross-Lingual Transfer of Word Vector Specialization
+Memory, Show the Way: Memory Based Few Shot Word Representation Learning
+Decoupling Structure and Lexicon for Zero-Shot Semantic Parsing
+One-Shot Relational Learning for Knowledge Graphs
+Zero-Shot Open Entity Typing as Type-Compatible Grounding
+Zero-shot User Intent Detection via Capsule Neural Networks
+Few-Shot and Zero-Shot Multi-Label Learning for Structured Label Spaces
+FewRel: A Large-Scale Supervised Few-shot Relation Classification Dataset with State-of-the-Art Evaluation
+

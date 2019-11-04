@@ -1,0 +1,2 @@
+Exploring Semantic Inter-Class Relationships (SIR) for Zero-Shot Action Recognition
+

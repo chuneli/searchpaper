@@ -1,0 +1,4 @@
+Action Selection for Hammer Shots in Curling
+Using Task Features for Zero-Shot Knowledge Transfer in Lifelong Learning
+Unsupervised Learning on Neural Network Outputs: With Application in Zero-Shot Learning
+

@@ -1,0 +1,2 @@
+Virtual lightweight snapshots for consistent analytics in NoSQL stores
+

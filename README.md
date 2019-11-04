@@ -67,6 +67,24 @@ results for "compress"：
     WWW	1   	    	    	    	    	1
     total	21   	27   	33   	43   	53   	177
     
+    “shot":
+    	2015	2016	2017	2018	2019	total
+    AAAI	1   	5   	3   	9   	19   	37
+    ACL	1   	    	1   	4   	8   	14
+    CLOT	    	    	    	    	    	0
+    COLING	    	1   	    	2   	    	3
+    EMNLP	2   	2   	1   	8   	13   	26
+    ICDE	    	1   	1   	1   	    	3
+    ICLR	    	    	2   	5   	4   	11
+    ICML	1   	1   	3   	3   	8   	16
+    IJCAI	1   	3   	4   	6   	9   	23
+    KR	    	    	    	    	    	0
+    NIPS	    	2   	4   	11   	    	17
+    SIGIR	1   	    	    	1   	1   	3
+    SIGKDD	    	    	    	1   	    	1
+    UAI	    	    	    	1   	1   	2
+    WWW	    	    	    	    	1   	1
+    total	7   	15   	19   	52   	64   	157
 
 Next:
 - multiple keywords search

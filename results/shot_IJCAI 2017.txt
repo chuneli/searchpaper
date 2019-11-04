@@ -1,0 +1,5 @@
+SitNet: Discrete Similarity Transfer Network for Zero-shot Hashing
+Synthesizing Samples for Zero-shot Learning
+Ordinal Zero-Shot Learning
+Boosted Zero-Shot Learning with Semantic Correlation Regularization
+

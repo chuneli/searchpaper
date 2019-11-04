@@ -1,0 +1,4 @@
+Growing Interpretable Part Graphs on ConvNets via Multi-Shot Learning
+DECK: Discovering Event Composition Knowledge from Web Images for Zero-Shot Event Detection and Recounting in Videos
+Zero-Shot Recognition via Direct Classifier Learning with Transferred Samples and Pseudo Labels
+
