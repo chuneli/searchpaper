@@ -1,3 +1,0 @@
-CiNCT: Compression and Retrieval for Massive Vehicular Trajectories via Relative Movement Labeling
-Decomposing and Re-Composing Lightweight Compression Schemes - And Why It Matters
-

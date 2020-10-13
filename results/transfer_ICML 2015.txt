@@ -1,5 +1,0 @@
-Learning Transferable Features with Deep Adaptation Networks
-Asymmetric Transfer Learning with Deep Gaussian Processes
-Non-Linear Cross-Domain Collaborative Filtering via Hyper-Structure Transfer
-A Theoretical Analysis of Metric Hypothesis Transfer Learning
-

@@ -1,3 +1,0 @@
-Learning feed-forward one-shot learners
-Matching Networks for One Shot Learning
-

@@ -1,9 +1,0 @@
-Automatic Detection and Compression for Passive Acoustic Monitoring of the African Forest Elephant
-SEGAN: Structure-Enhanced Generative Adversarial Network for Compressed Sensing MRI Reconstruction
-Private Model Compression via Knowledge Distillation
-State Abstraction as Compression in Apprenticeship Learning
-A Theoretically Guaranteed Deep Optimization Framework for Robust Compressive Sensing MRI
-Compressing Recurrent Neural Networks with Tensor Ring for Action Recognition
-An Efficient Compressive Convolutional Network for Unified Object Detection and Image Compression
-Online Embedding Compression for Text Classification Using Low Rank Matrix Factorization
-

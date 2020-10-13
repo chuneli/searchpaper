@@ -1,6 +1,0 @@
-Using Rule-Based Labels for Weak Supervised Learning: A ChemNet for Transferable Chemical Property Prediction
-Managing Computer-Assisted Detection System Based on Transfer Learning with Negative Transfer Inhibition
-Learning and Transferring IDs Representation in E-commerce
-Transfer Learning via Feature Isomorphism Discovery
-TINET: Learning Invariant Networks via Knowledge Transfer
-

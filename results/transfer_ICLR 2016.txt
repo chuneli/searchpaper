@@ -1,3 +1,0 @@
-Net2Net: Accelerating Learning via Knowledge Transfer
-Actor-Mimic: Deep Multitask and Transfer Reinforcement Learning
-

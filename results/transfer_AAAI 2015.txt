@@ -1,8 +1,0 @@
-Robust Image Sentiment Analysis Using Progressively Trained and Domain Transferred Deep Networks
-A Simulator of Human Emergency Mobility Following Disasters: Knowledge Transfer from Big Disaster Data
-Unsupervised Cross-Domain Transfer in Policy Gradient Reinforcement Learning via Manifold Alignment
-TODTLER: Two-Order-Deep Transfer Learning
-Online Boosting Algorithms for Anytime Transfer and Multitask Learning
-Transfer Feature Representation via Multiple Kernel Learning
-Transfer Learning-Based Co-Run Scheduling for Heterogeneous Datacenters
-

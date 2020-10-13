@@ -1,6 +1,0 @@
-Computer Science on the Move: Inferring Migration Regularities from the Web via Compressed Label Propagation
-Multi-Document Abstractive Summarization Using ILP Based Multi-Sentence Compression
-Compressive Document Summarization via Sparse Optimization
-Compressed Spectral Regression for Efficient Nonlinear Dimensionality Reduction
-Data Compression for Learning MRF Parameters
-

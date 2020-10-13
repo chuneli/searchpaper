@@ -1,3 +1,0 @@
-Parallel Sentence Compression
-Learning Succinct Models: Pipelined Compression with L1-Regularization, Hashing, Elias-Fano Indices, and Quantization
-

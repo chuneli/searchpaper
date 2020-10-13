@@ -1,6 +1,0 @@
-An Interpretable Knowledge Transfer Model for Knowledge Base Completion
-One-Shot Neural Cross-Lingual Transfer for Paradigm Completion
-
-Question Answering through Transfer Learning from Large Fine-grained Supervision Data
-Model Transfer for Tagging Low-resource Languages using a Bilingual Dictionary
-

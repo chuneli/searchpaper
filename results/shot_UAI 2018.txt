@@ -1,2 +1,0 @@
-Probabilistic AND-OR Attribute Grouping for Zero-Shot Learning
-

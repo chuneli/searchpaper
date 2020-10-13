@@ -1,3 +1,0 @@
-Hierarchical in-network attribute compression via importance sampling
-Bounded Quadrant System: Error-bounded trajectory compression on the go
-

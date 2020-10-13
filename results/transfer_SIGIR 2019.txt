@@ -1,4 +1,0 @@
-An Efficient Adaptive Transfer Neural Network for Social-aware Recommendation
-Modeling Transferable Topics for Cross-Target Stance Detection
-USEing Transfer Learning in Retrieval of Statistical Data
-

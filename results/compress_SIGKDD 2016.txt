@@ -1,6 +1,0 @@
-Compressing Convolutional Neural Networks in the Frequency Domain
-Compressing Graphs and Indexes with Recursive Graph Bisection
-Squish: Near-Optimal Compression for Archival of Relational Datasets
-Scalable Pattern Matching over Compressed Graphs via Dedensification
-Scalable Partial Least Squares Regression on Grammar-Compressed Data Matrices
-

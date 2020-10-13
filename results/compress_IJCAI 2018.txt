@@ -1,3 +1,0 @@
-Optimization based Layer-wise Magnitude-based Pruning for DNN Compression
-Dynamically Hierarchy Revolution: DirNet for Compressing Recurrent Neural Network on Mobile Devices
-

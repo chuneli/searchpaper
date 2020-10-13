@@ -1,2 +1,0 @@
-An Operation Network for Abstractive Sentence Compression
-

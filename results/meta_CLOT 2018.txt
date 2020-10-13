@@ -1,2 +1,0 @@
-Local Optimality and Generalization Guarantees for the Langevin Algorithm via Empirical Metastability
-

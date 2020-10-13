@@ -1,3 +1,0 @@
-COBRA: Compression Via Abstraction of Provenance for Hypothetical Reasoning
-A Novel Representation and Compression for Queries on Trajectories in Road Networks (Extended Abstract)
-

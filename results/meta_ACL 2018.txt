@@ -1,6 +1,0 @@
-Word Embedding and WordNet Based Metaphor Identification and Interpretation
-Neural Models for Documents with Metadata
-Morphosyntactic Tagging with a Meta-BiLSTM Model over Context Sensitive Token Encodings
-
-Construction of a Chinese Corpus for the Analysis of the Emotionality of Metaphorical Expressions
-

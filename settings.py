@@ -3,47 +3,176 @@
 
 resources=[]
 
-###############  2020 ######################
 
+
+
+
+
+###############  2020 ######################
+# onedict={
+#     'publication': 'COLING 2020',
+#     'urllist': ['https://dblp.org/db/conf/coling/coling2020.html'],
+#     'titlepatten': '<span class="title" itemprop="name">(.*?).</span> ',
+# }
+# resources.append(onedict)
+
+
+# onedict={
+#     'publication': 'KR 2020',
+#     'urllist': ['https://dblp.org/db/conf/kr/kr2020'],
+#     'titlepatten': '<span class="title" itemprop="name">(.*?).</span> ',
+# }
+onedict={
+    'publication': 'KR 2020',
+    'urllist': ['https://library.confdna.com/kr/2020/'],
+    'titlepatten': '<li><div class="track_paperinfo__1BUI8"><a href="/kr/2020/.*?/">(.*?)</a>.<!-- -->',
+}
+resources.append(onedict)
+
+onedict={
+    'publication': 'UAI 2020',
+    'urllist': ['http://www.auai.org/uai2020/accepted.php'],
+    'titlepatten': '<br/><br/><br/></h5></td><td><h4>(.*?)</h4>',
+}
+# onedict={
+#     'publication': 'UAI 2020',
+#     'urllist': ['https://dblp.org/db/conf/uai/uai2020'],
+#     'titlepatten': '<span class="title" itemprop="name">(.*?).</span> ',
+# }
+resources.append(onedict)
+
+# onedict={
+#     'publication': 'EMNLP 2020',
+#     'urllist': ['https://dblp.org/db/conf/emnlp/emnlp2020'],
+#     'titlepatten': '<span class="title" itemprop="name">(.*?).</span> ',
+# }
+onedict={
+    'publication': 'EMNLP 2020',
+    'urllist': ['https://2020.emnlp.org/papers/main'],
+    'titlepatten': '<span class="paper-title">(.*?)<!-- -->. </span><span class="paper-authors">'
+}
+resources.append(onedict)
+
+
+onedict={
+    'publication': 'NIPS 2020',
+    'urllist': ['https://nips.cc/Conferences/2020/AcceptedPapersInitial'],
+    'titlepatten': '<p><b>(.*?)</b><br><i>',
+}
+# onedict={
+#     'publication': 'NIPS 2020',
+#     'urllist': ['https://dblp.org/db/conf/nips/nips2020'],
+#     'titlepatten': '<span class="title" itemprop="name">(.*?).</span> ',
+# }
+resources.append(onedict)
+
+
+onedict={
+    'publication': 'ICML 2020',
+    'urllist': ['https://proceedings.icml.cc/book/2020'],
+    'titlepatten': '<li><a href="/paper/2020/hash/.*?">(.*?)</a> <i>'
+ }
+# onedict={
+#     'publication': 'ICML 2020',
+#     'urllist': ['https://dblp.org/db/conf/icml/icml2020'],
+#     'titlepatten': '<span class="title" itemprop="name">(.*?).</span> '
+#  }
+resources.append(onedict)
+
+
+
+
+
+
+onedict={
+    'publication': 'ACL 2020',
+    'urllist': ['https://dblp.uni-trier.de/db/conf/acl/acl2020.html'],
+    'titlepatten': '<span class="title" itemprop="name">(.*?).</span> ',
+}
+resources.append(onedict)
+
+
+onedict={
+    'publication': 'AAAI 2020',
+    'urllist': ['https://dblp.org/db/conf/aaai/aaai2020'],
+    'titlepatten': '<span class="title" itemprop="name">(.*?).</span> ',
+}
+resources.append(onedict)
+
+onedict={
+    'publication': 'ICLR 2020',
+    'urllist': ['https://dblp.org/db/conf/iclr/iclr2020'],
+    'titlepatten': '<span class="title" itemprop="name">(.*?).</span> ',
+}
+resources.append(onedict)
+
+onedict={
+    'publication': 'IJCAI 2020',
+    'urllist': ['https://dblp.org/db/conf/ijcai/ijcai2020.html'],
+    'titlepatten': '<span class="title" itemprop="name">(.*?).</span> ',
+}
+resources.append(onedict)
+
+onedict={
+    'publication': 'SIGIR 2020',
+    'urllist': ['https://dblp.org/db/conf/sigir/sigir2020'],
+    'titlepatten': '<span class="title" itemprop="name">(.*?).</span> ',
+}
+resources.append(onedict)
+
+onedict={
+    'publication': 'SIGKDD 2020',
+    'urllist': ['https://dblp.org/db/conf/kdd/kdd2020'],
+    'titlepatten': '<span class="title" itemprop="name">(.*?).</span> ',
+}
+resources.append(onedict)
+
+onedict={
+    'publication': 'WWW 2020',
+    'urllist': ['https://dblp.org/db/conf/www/www2020'],
+    'titlepatten': '<span class="title" itemprop="name">(.*?).</span> ',
+}
+resources.append(onedict)
+
+onedict={
+    'publication': 'ICDE 2020',
+    'urllist': ['https://dblp.org/db/conf/icde/icde2020'],
+    'titlepatten': '<span class="title" itemprop="name">(.*?).</span> ',
+}
+resources.append(onedict)
+
+
+
+
+
+
+
+
+
+onedict={
+    'publication': 'CLOT 2020',
+    'urllist': ['https://dblp.org/db/conf/colt/colt2020'],
+    'titlepatten': '<span class="title" itemprop="name">(.*?).</span> ',
+}
+resources.append(onedict)
 
 
 
 
 ################## 2019 ########################
 
-# onedict={
-#     'publication': 'NIPS 2019',
-#     'urllist': ['https://dblp.org/db/conf/nips/nips2019'],
-#     'titlepatten': '<span class="title" itemprop="name">(.*?).</span> ',
-# }
-# resources.append(onedict)
-onedict={
-    'publication': 'NIPS 2019',
-    'urllist': ['https://nips.cc/Conferences/2019/AcceptedPapersInitial'],
-    'titlepatten': '<p><b>(.*?)</b><br><i>'
-}
-resources.append(onedict)
-
-
-# onedict={
-#     'publication': 'EMNLP 2019',
-#     'urllist': ['https://dblp.org/db/conf/emnlp/emnlp2019'],
-#     'titlepatten': '<span class="title" itemprop="name">(.*?).</span> ',
-# }
-# resources.append(onedict)
-
-onedict={
-    'publication': 'EMNLP 2019',
-    'urllist': ['https://www.emnlp-ijcnlp2019.org/program/accepted/'],
-    'titlepatten': '<li><span style="color:cornflowerblue">(.*?)</span>',
-}
-resources.append(onedict)
-
 
 onedict={
     'publication': 'ICML 2019',
     'urllist': ['https://dblp.org/db/conf/icml/icml2019'],
     'titlepatten': '<span class="title" itemprop="name">(.*?).</span> '
+ }
+resources.append(onedict)
+
+onedict={
+    'publication': 'NIPS 2019',
+    'urllist': ['https://dblp.org/db/conf/nips/nips2019'],
+    'titlepatten': '<span class="title" itemprop="name">(.*?).</span> ',
 }
 resources.append(onedict)
 
@@ -105,6 +234,19 @@ onedict={
 resources.append(onedict)
 
 
+onedict={
+    'publication': 'EMNLP 2019',
+    'urllist': ['https://dblp.org/db/conf/emnlp/emnlp2019-1.html'],
+    'titlepatten': '<span class="title" itemprop="name">(.*?).</span> ',
+}
+resources.append(onedict)
+
+# onedict={
+#     'publication': 'COLING 2019', #biennial
+#     'urllist': ['https://dblp.org/db/conf/coling/coling2019.html'],
+#     'titlepatten': '<span class="title" itemprop="name">(.*?).</span> ',
+# }
+# resources.append(onedict)
 
 onedict={
     'publication': 'UAI 2019',
@@ -113,27 +255,19 @@ onedict={
 }
 resources.append(onedict)
 
+# onedict={
+#     'publication': 'KR 2019', #biennial
+#     'urllist': ['https://dblp.org/db/conf/kr/kr2019'],
+#     'titlepatten': '<span class="title" itemprop="name">(.*?).</span> ',
+# }
+# resources.append(onedict)
 
-onedict = {
+onedict={
     'publication': 'CLOT 2019',
     'urllist': ['https://dblp.org/db/conf/colt/colt2019'],
     'titlepatten': '<span class="title" itemprop="name">(.*?).</span> ',
 }
 resources.append(onedict)
-
-# onedict={
-#     'publication': 'COLING 2019',
-#     'urllist': ['https://dblp.org/db/conf/coling/coling2019.html'],
-#     'titlepatten': '<span class="title" itemprop="name">(.*?).</span> ',
-# }
-# resources.append(onedict)
-
-# onedict={
-#     'publication': 'KR 2019',
-#     'urllist': ['https://dblp.org/db/conf/kr/kr2019'],
-#     'titlepatten': '<span class="title" itemprop="name">(.*?).</span> ',
-# }
-# resources.append(onedict)
 
 
 

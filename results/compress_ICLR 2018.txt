@@ -1,9 +1,0 @@
-Viterbi-based Pruning for Sparse Matrix with Fixed and High Index Compression Ratio
-Model compression via distillation and quantization
-Variational image compression with a scale hyperprior
-Compressing Word Embeddings via Deep Compositional Code Learning
-Deep Gradient Compression: Reducing the Communication Bandwidth for Distributed Training
-Towards Image Understanding from Deep Compression Without Decoding
-N2N learning: Network to Network Compression via Policy Gradient Reinforcement Learning
-A Compressed Sensing View of Unsupervised Text Embeddings, Bag-of-n-Grams, and LSTMs
-

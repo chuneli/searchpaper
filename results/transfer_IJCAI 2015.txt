@@ -1,5 +1,0 @@
-Autonomous Cross-Domain Knowledge Transfer in Lifelong Policy Gradient Reinforcement Learning
-Deep Low-Rank Coding for Transfer Learning
-Portable Option Discovery for Automated Learning Transfer in Object-Oriented Markov Decision Processes
-Supervised Representation Learning: Transfer Learning with Deep Autoencoders
-

@@ -1,3 +1,0 @@
-Blitz: A Principled Meta-Algorithm for Scaling Sparse Optimization
-Metadata Dependent Mondrian Processes
-

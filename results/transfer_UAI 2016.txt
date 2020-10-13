@@ -1,3 +1,0 @@
-Adversarial Inverse Optimal Control for General Imitation Learning Losses and Embodiment Transfer
-Towards a Theoretical Understanding of Negative Transfer in Collective Matrix Factorization
-

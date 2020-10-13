@@ -1,4 +1,0 @@
-Unsupervised Abstractive Meeting Summarization with Multi-Sentence Compression and Budgeted Submodular Maximization
-
-A Language Model based Evaluator for Sentence Compression
-

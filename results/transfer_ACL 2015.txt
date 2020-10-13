@@ -1,6 +1,0 @@
-New Transfer Learning Techniques for Disparate Label Sets
-Transferring Coreference Resolvers with Posterior Regularization
-
-KLcpos3 - a Language Similarity Measure for Delexicalized Parser Transfer
-Cross-lingual Transfer of Named Entity Recognizers without Parallel Corpora
-

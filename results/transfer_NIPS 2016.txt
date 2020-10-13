@@ -1,4 +1,0 @@
-Unsupervised Domain Adaptation with Residual Transfer Networks
-Learning Transferrable Representations for Unsupervised Domain Adaptation
-Learning Bound for Parameter Transfer Learning
-

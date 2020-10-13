@@ -1,3 +1,0 @@
-Images Don't Lie: Transferring Deep Visual Semantic Features to Large-Scale Multimodal Learning to Rank
-Transfer Knowledge between Cities
-

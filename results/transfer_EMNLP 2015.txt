@@ -1,4 +1,0 @@
-Visual Bilingual Lexicon Induction with Transferred ConvNet Features
-Density-Driven Cross-Lingual Transfer of Dependency Parsers
-Hierarchical Low-Rank Tensors for Multilingual Transfer Parsing
-

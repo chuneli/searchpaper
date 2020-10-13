@@ -1,2 +1,0 @@
-SPARC: Self-Paced Network Representation for Few-Shot Rare Category Characterization
-

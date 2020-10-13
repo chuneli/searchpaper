@@ -1,5 +1,0 @@
-Metaphysics of Planning Domain Descriptions
-The Meta-Problem for Conservative Mal'tsev Constraints
-MIDCA: A Metacognitive, Integrated Dual-Cycle Architecture for Self-Regulated Autonomy
-MetaSeer.STEM: Towards Automating Meta-Analyses
-

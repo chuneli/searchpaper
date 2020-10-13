@@ -3,8 +3,296 @@
   <component name="ChangeListManager">
     <list default="true" id="2383ecc3-f324-41a2-bfe2-54a428a02944" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/abstract_acl2019.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abstract_nips2019 - 副本.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abstract_nips2019.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aclAbstract.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/longpaperlist_acl2019.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nips2019.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nipsAbstract.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oneli.html" beforeDir="false" afterPath="$PROJECT_DIR$/oneli.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/paperlist_nips2019.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/compress_AAAI 2015.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/compress_AAAI 2016.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/compress_AAAI 2017.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/compress_AAAI 2018.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/compress_AAAI 2019.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/compress_ACL 2015.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/compress_ACL 2016.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/compress_ACL 2017.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/compress_ACL 2018.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/compress_ACL 2019.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/compress_CLOT 2015.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/compress_CLOT 2016.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/compress_CLOT 2017.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/compress_CLOT 2018.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/compress_CLOT 2019.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/compress_COLING 2016.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/compress_COLING 2018.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/compress_EMNLP 2015.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/compress_EMNLP 2016.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/compress_EMNLP 2017.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/compress_EMNLP 2018.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/compress_EMNLP 2019.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/compress_ICDE 2015.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/compress_ICDE 2016.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/compress_ICDE 2017.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/compress_ICDE 2018.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/compress_ICDE 2019.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/compress_ICLR 2015.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/compress_ICLR 2016.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/compress_ICLR 2017.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/compress_ICLR 2018.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/compress_ICLR 2019.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/compress_ICML 2015.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/compress_ICML 2016.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/compress_ICML 2017.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/compress_ICML 2018.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/compress_ICML 2019.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/compress_IJCAI 2015.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/compress_IJCAI 2016.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/compress_IJCAI 2017.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/compress_IJCAI 2018.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/compress_IJCAI 2019.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/compress_KR 2016.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/compress_KR 2018.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/compress_NIPS 2015.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/compress_NIPS 2016.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/compress_NIPS 2017.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/compress_NIPS 2018.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/compress_NIPS 2019.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/compress_SIGIR 2015.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/compress_SIGIR 2016.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/compress_SIGIR 2017.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/compress_SIGIR 2018.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/compress_SIGIR 2019.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/compress_SIGKDD 2015.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/compress_SIGKDD 2016.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/compress_SIGKDD 2017.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/compress_SIGKDD 2018.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/compress_SIGKDD 2019.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/compress_UAI 2015.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/compress_UAI 2016.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/compress_UAI 2017.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/compress_UAI 2018.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/compress_UAI 2019.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/compress_WWW 2015.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/compress_WWW 2016.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/compress_WWW 2017.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/compress_WWW 2018.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/compress_WWW 2019.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/meta_AAAI 2015.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/meta_AAAI 2016.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/meta_AAAI 2017.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/meta_AAAI 2018.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/meta_AAAI 2019.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/meta_ACL 2015.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/meta_ACL 2016.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/meta_ACL 2017.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/meta_ACL 2018.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/meta_ACL 2019.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/meta_CLOT 2015.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/meta_CLOT 2016.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/meta_CLOT 2017.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/meta_CLOT 2018.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/meta_CLOT 2019.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/meta_COLING 2016.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/meta_COLING 2017.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/meta_COLING 2018.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/meta_EMNLP 2015.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/meta_EMNLP 2016.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/meta_EMNLP 2017.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/meta_EMNLP 2018.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/meta_EMNLP 2019.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/meta_ICDE 2015.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/meta_ICDE 2016.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/meta_ICDE 2017.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/meta_ICDE 2018.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/meta_ICDE 2019.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/meta_ICLR 2015.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/meta_ICLR 2016.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/meta_ICLR 2017.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/meta_ICLR 2018.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/meta_ICLR 2019.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/meta_ICML 2015.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/meta_ICML 2016.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/meta_ICML 2017.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/meta_ICML 2018.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/meta_ICML 2019.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/meta_IJCAI 2015.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/meta_IJCAI 2016.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/meta_IJCAI 2017.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/meta_IJCAI 2018.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/meta_IJCAI 2019.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/meta_KR 2016.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/meta_KR 2017.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/meta_KR 2018.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/meta_NIPS 2015.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/meta_NIPS 2016.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/meta_NIPS 2017.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/meta_NIPS 2018.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/meta_NIPS 2019.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/meta_SIGIR 2015.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/meta_SIGIR 2016.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/meta_SIGIR 2017.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/meta_SIGIR 2018.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/meta_SIGIR 2019.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/meta_SIGKDD 2015.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/meta_SIGKDD 2016.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/meta_SIGKDD 2017.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/meta_SIGKDD 2018.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/meta_SIGKDD 2019.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/meta_UAI 2015.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/meta_UAI 2016.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/meta_UAI 2017.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/meta_UAI 2018.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/meta_UAI 2019.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/meta_WWW 2015.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/meta_WWW 2016.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/meta_WWW 2017.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/meta_WWW 2018.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/meta_WWW 2019.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/shot_AAAI 2015.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/shot_AAAI 2016.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/shot_AAAI 2017.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/shot_AAAI 2018.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/shot_AAAI 2019.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/shot_ACL 2015.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/shot_ACL 2016.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/shot_ACL 2017.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/shot_ACL 2018.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/shot_ACL 2019.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/shot_CLOT 2015.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/shot_CLOT 2016.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/shot_CLOT 2017.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/shot_CLOT 2018.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/shot_CLOT 2019.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/shot_COLING 2016.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/shot_COLING 2018.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/shot_EMNLP 2015.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/shot_EMNLP 2016.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/shot_EMNLP 2017.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/shot_EMNLP 2018.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/shot_EMNLP 2019.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/shot_ICDE 2015.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/shot_ICDE 2016.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/shot_ICDE 2017.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/shot_ICDE 2018.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/shot_ICDE 2019.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/shot_ICLR 2015.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/shot_ICLR 2016.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/shot_ICLR 2017.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/shot_ICLR 2018.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/shot_ICLR 2019.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/shot_ICML 2015.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/shot_ICML 2016.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/shot_ICML 2017.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/shot_ICML 2018.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/shot_ICML 2019.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/shot_IJCAI 2015.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/shot_IJCAI 2016.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/shot_IJCAI 2017.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/shot_IJCAI 2018.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/shot_IJCAI 2019.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/shot_KR 2016.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/shot_KR 2018.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/shot_NIPS 2015.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/shot_NIPS 2016.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/shot_NIPS 2017.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/shot_NIPS 2018.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/shot_NIPS 2019.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/shot_SIGIR 2015.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/shot_SIGIR 2016.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/shot_SIGIR 2017.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/shot_SIGIR 2018.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/shot_SIGIR 2019.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/shot_SIGKDD 2015.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/shot_SIGKDD 2016.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/shot_SIGKDD 2017.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/shot_SIGKDD 2018.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/shot_SIGKDD 2019.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/shot_UAI 2015.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/shot_UAI 2016.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/shot_UAI 2017.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/shot_UAI 2018.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/shot_UAI 2019.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/shot_WWW 2015.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/shot_WWW 2016.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/shot_WWW 2017.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/shot_WWW 2018.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/shot_WWW 2019.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/transfer_AAAI 2015.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/transfer_AAAI 2016.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/transfer_AAAI 2017.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/transfer_AAAI 2018.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/transfer_AAAI 2019.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/transfer_ACL 2015.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/transfer_ACL 2016.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/transfer_ACL 2017.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/transfer_ACL 2018.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/transfer_ACL 2019.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/transfer_CLOT 2015.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/transfer_CLOT 2016.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/transfer_CLOT 2017.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/transfer_CLOT 2018.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/transfer_CLOT 2019.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/transfer_COLING 2016.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/transfer_COLING 2018.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/transfer_EMNLP 2015.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/transfer_EMNLP 2016.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/transfer_EMNLP 2017.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/transfer_EMNLP 2018.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/transfer_EMNLP 2019.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/transfer_ICDE 2015.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/transfer_ICDE 2016.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/transfer_ICDE 2017.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/transfer_ICDE 2018.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/transfer_ICDE 2019.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/transfer_ICLR 2015.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/transfer_ICLR 2016.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/transfer_ICLR 2017.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/transfer_ICLR 2018.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/transfer_ICLR 2019.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/transfer_ICML 2015.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/transfer_ICML 2016.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/transfer_ICML 2017.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/transfer_ICML 2018.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/transfer_ICML 2019.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/transfer_IJCAI 2015.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/transfer_IJCAI 2016.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/transfer_IJCAI 2017.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/transfer_IJCAI 2018.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/transfer_IJCAI 2019.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/transfer_KR 2016.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/transfer_KR 2018.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/transfer_NIPS 2015.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/transfer_NIPS 2016.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/transfer_NIPS 2017.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/transfer_NIPS 2018.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/transfer_NIPS 2019.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/transfer_SIGIR 2015.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/transfer_SIGIR 2016.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/transfer_SIGIR 2017.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/transfer_SIGIR 2018.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/transfer_SIGIR 2019.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/transfer_SIGKDD 2015.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/transfer_SIGKDD 2016.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/transfer_SIGKDD 2017.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/transfer_SIGKDD 2018.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/transfer_SIGKDD 2019.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/transfer_UAI 2015.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/transfer_UAI 2016.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/transfer_UAI 2017.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/transfer_UAI 2018.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/transfer_UAI 2019.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/transfer_WWW 2015.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/transfer_WWW 2016.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/transfer_WWW 2017.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/transfer_WWW 2018.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/transfer_WWW 2019.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xpathdemo.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,16 +302,27 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/searchpaper$testxpath.coverage" NAME="testxpath Coverage Results" MODIFIED="1572335822023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/searchpaper$aclAbstract.coverage" NAME="aclAbstract Coverage Results" MODIFIED="1578039571765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/searchpaper$nipsAbstract.coverage" NAME="nipsAbstract Coverage Results" MODIFIED="1576459161540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/searchpaper$xpathdemo.coverage" NAME="xpathdemo Coverage Results" MODIFIED="1572335541372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/searchpaper$main.coverage" NAME="main Coverage Results" MODIFIED="1572841442224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/searchpaper$main.coverage" NAME="main Coverage Results" MODIFIED="1602573969985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
     <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="230">
+              <caret line="218" column="1" selection-start-line="218" selection-start-column="1" selection-end-line="218" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="9" column="16" lean-forward="true" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+            <state relative-caret-position="210">
+              <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -43,8 +342,14 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>title</find>
       <find>class=&quot;title&quot; itemprop=&quot;name&quot;</find>
+      <find>html</find>
+      <find>hm</find>
+      <find>align-middle</find>
+      <find>a class=&quot;align-middle&quot; href=&quot;</find>
+      <find>title</find>
+      <find>e</find>
+      <find>emnlp201</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -56,17 +361,20 @@
         <option value="$PROJECT_DIR$/try.py" />
         <option value="$PROJECT_DIR$/xpathdemo.py" />
         <option value="$PROJECT_DIR$/testxpath.py" />
-        <option value="$PROJECT_DIR$/oneli.html" />
-        <option value="$PROJECT_DIR$/main.py" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/nipsAbstract.py" />
+        <option value="$PROJECT_DIR$/oneli.html" />
+        <option value="$PROJECT_DIR$/aclAbstract.py" />
+        <option value="$PROJECT_DIR$/settings.py" />
+        <option value="$PROJECT_DIR$/main.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-90" />
-    <option name="y" value="330" />
-    <option name="width" value="1697" />
-    <option name="height" value="758" />
+    <option name="x" value="586" />
+    <option name="y" value="373" />
+    <option name="width" value="902" />
+    <option name="height" value="662" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -76,7 +384,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -88,6 +395,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -111,6 +419,28 @@
     </option>
   </component>
   <component name="RunManager" selected="Python.main">
+    <configuration name="aclAbstract" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="searchpaper" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aclAbstract.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="searchpaper" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -125,6 +455,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="nipsAbstract" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="searchpaper" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/nipsAbstract.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -149,28 +501,6 @@
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testxpath.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="try" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="searchpaper" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/try.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
@@ -202,9 +532,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.main" />
+        <item itemvalue="Python.aclAbstract" />
+        <item itemvalue="Python.nipsAbstract" />
         <item itemvalue="Python.testxpath" />
         <item itemvalue="Python.xpathdemo" />
-        <item itemvalue="Python.try" />
       </list>
     </recent_temporary>
   </component>
@@ -224,6 +555,11 @@
       <workItem from="1572350184230" duration="57000" />
       <workItem from="1572350260695" duration="628000" />
       <workItem from="1572841378871" duration="770000" />
+      <workItem from="1576055692556" duration="8667000" />
+      <workItem from="1577933137565" duration="14820000" />
+      <workItem from="1591754445390" duration="80000" />
+      <workItem from="1602569363069" duration="159000" />
+      <workItem from="1602569765325" duration="4807000" />
     </task>
     <task id="LOCAL-00001" summary="update transfer, compress results">
       <created>1572348770470</created>
@@ -243,18 +579,18 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9594000" />
+    <option name="totallyTimeSpent" value="38127000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18710022" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13113007" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4989339" weight="0.43275487" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49840087" visible="true" weight="0.55531454" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -262,9 +598,9 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.4978678" weight="0.29934925" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5010661" side_tool="true" visible="true" weight="0.43275487" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.329718" />
-      <window_info anchor="bottom" id="Python Console" order="12" weight="0.18112798" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50159913" side_tool="true" weight="0.43275487" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49840087" weight="0.16052061" />
+      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.49969456" weight="0.45689654" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -293,33 +629,8 @@
     <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'master' of https://github.com/chuneli/searchpaper&#10;&#10;# Conflicts:&#10;#&#9;README.md" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/results/meta_COLING 2018.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/results/meta_UAI 2018.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/try.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-269">
-          <caret line="17" column="28" lean-forward="true" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
-          <folding>
-            <element signature="e#3#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/oneli.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="7" column="83" selection-start-line="7" selection-start-column="83" selection-end-line="7" selection-end-column="83" />
-          <folding>
-            <element signature="n#style#0;n#span#0;n#span#0;n#div#1;n#li#0;n#ul#0;n#nav#0;n#li#0;n#!!top" expanded="true" />
-            <element signature="e#1213#1219#1" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/results/meta_COLING 2018.txt" />
+    <entry file="file://$PROJECT_DIR$/results/meta_UAI 2018.txt" />
     <entry file="file://$PROJECT_DIR$/xpathdemo.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="572">
@@ -327,32 +638,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="812">
-          <caret line="50" column="24" selection-start-line="50" selection-start-column="24" selection-end-line="50" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testxpath.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="8" column="46" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="46" />
-          <folding>
-            <element signature="e#0#36#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/results/compress_AAAI 2019.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/results/compress_AAAI 2016.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/results/compress_AAAI 2015.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/results/compress_AAAI 2019.txt" />
+    <entry file="file://$PROJECT_DIR$/results/compress_AAAI 2016.txt" />
+    <entry file="file://$PROJECT_DIR$/results/compress_AAAI 2015.txt" />
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -363,10 +651,75 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/testxpath.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/try.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-236">
+          <caret line="17" column="28" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+          <folding>
+            <element signature="e#3#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/abstract_nips2019.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aclAbstract.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="64" column="37" selection-start-line="64" selection-start-column="37" selection-end-line="64" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nipsAbstract.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="812">
+          <caret line="55" column="62" selection-start-line="55" selection-start-column="4" selection-end-line="55" selection-end-column="62" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oneli.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="117" selection-end-column="213" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/results/compress_AAAI 2017.txt" />
+    <entry file="file://D:/installanaconda3/Lib/re.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="221" selection-start-line="221" selection-end-line="221" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="218" column="1" selection-start-line="218" selection-start-column="1" selection-end-line="218" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="9" column="16" lean-forward="true" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+        <state relative-caret-position="210">
+          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>

@@ -1,9 +1,0 @@
-Adversarial Transfer Learning for Chinese Named Entity Recognition with Self-Attention Mechanism
-Deep Pivot-Based Modeling for Cross-language Cross-domain Transfer with Minimal Guidance
-Adversarial Propagation and Zero-Shot Cross-Lingual Transfer of Word Vector Specialization
-Improving Multi-label Emotion Classification via Sentiment Classification with Dual Attention Transfer Network
-Transfer and Multi-Task Learning for Noun-Noun Compound Interpretation
-Neural Relation Extraction via Inner-Sentence Noise Reduction and Transfer Learning
-Unsupervised Cross-lingual Transfer of Word Embedding Spaces
-Transferring from Formal Newswire Domain with Hypernet for Twitter POS Tagging
-

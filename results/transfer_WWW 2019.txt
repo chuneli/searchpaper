@@ -1,5 +1,0 @@
-BOLT-K: Bootstrapping Ontology Learning via Transfer of Knowledge
-Auto-EM: End-to-end Fuzzy Entity-Matching using Pre-trained Deep Models and Transfer Learning
-Transfer Learning for Unsupervised Influenza-like Illness Models from Online Search Data
-Transfer Meets Hybrid: A Synthetic Approach for Cross-Domain Collaborative Filtering with Text
-

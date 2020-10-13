@@ -1,2 +1,0 @@
-Snapshot-based Loading Acceleration of Web Apps with Nondeterministic JavaScript Execution
-

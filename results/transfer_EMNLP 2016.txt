@@ -1,6 +1,0 @@
-How Transferable are Neural Networks in NLP Applications
-Transferring User Interests Across Websites with Unstructured Text for Cold-Start Recommendation
-Named Entity Recognition for Novel Types by Transfer Learning
-Phonologically Aware Neural Model for Named Entity Recognition in Low Resource Transfer Settings
-Transfer Learning for Low-Resource Neural Machine Translation
-

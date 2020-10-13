@@ -1,3 +1,0 @@
-Gaussian Visual-Linguistic Embedding for Zero-Shot Recognition
-Conditional Generation and Snapshot Learning in Neural Dialogue Systems
-

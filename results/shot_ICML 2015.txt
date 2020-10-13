@@ -1,2 +1,0 @@
-An embarrassingly simple approach to zero-shot learning
-

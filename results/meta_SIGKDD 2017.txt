@@ -1,5 +1,0 @@
-metapath2vec: Scalable Representation Learning for Heterogeneous Networks
-Meta-Graph Based Recommendation Fusion over Heterogeneous Information Networks
-MetaPAD: Meta Pattern Discovery from Massive Text Corpora
-Visualizing Attributed Graphs via Terrain Metaphor
-

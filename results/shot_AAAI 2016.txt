@@ -1,6 +1,0 @@
-Relational Knowledge Transfer for Zero-Shot Learning
-Zero-Shot Event Detection by Multimodal Distributional Semantic Embedding of Videos
-Concepts Not Alone: Exploring Pairwise Relationships for Zero-Shot Video Activity Recognition
-Transductive Zero-Shot Recognition via Shared Model Space Learning
-Exploiting View-Specific Appearance Similarities Across Classes for Zero-Shot Pose Prediction: A Metric Learning Approach
-

@@ -1,2 +1,0 @@
-Imagination Based Sample Construction for Zero-Shot Learning
-

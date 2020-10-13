@@ -1,5 +1,0 @@
-Snip: single-Shot Network Pruning based on Connection sensitivity
-Adaptive Posterior Learning: few-shot learning with a surprise-based memory module
-A Closer Look at Few-shot Classification
-Learning to Propagate Labels: Transductive Propagation Network for Few-Shot Learning
-

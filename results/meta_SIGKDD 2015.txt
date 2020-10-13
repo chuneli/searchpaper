@@ -1,3 +1,0 @@
-Collective Opinion Spam Detection: Bridging Review Networks and Metadata
-Integrating Vertex-centric Clustering with Edge-centric Clustering for Meta Path Graph Analysis
-

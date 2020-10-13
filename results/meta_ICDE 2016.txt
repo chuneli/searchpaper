@@ -1,2 +1,0 @@
-Semantic proximity search on graphs with metagraph-based learning
-

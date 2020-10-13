@@ -1,4 +1,0 @@
-Phrase-based Compressive Cross-Language Summarization
-Sentence Compression by Deletion with LSTMs
-Compact, Efficient and Unlimited Capacity: Language Modeling with Compressed Suffix Trees
-

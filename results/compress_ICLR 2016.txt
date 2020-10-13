@@ -1,5 +1,0 @@
-Deep Compression: Compressing Deep Neural Network with Pruning, Trained Quantization and Huffman Coding
-Data Representation and Compression Using Linear-Programming Approximations
-Compression of Deep Convolutional Neural Networks for Fast and Low Power Mobile Applications
-Variable Rate Image Compression with Recurrent Neural Networks
-

@@ -8,6 +8,7 @@ import re
 # keyword = 'transfer'
 # keyword = 'compress'
 keyword = 'shot'
+# keyword = 'transductive'
 download = False
 
 
@@ -28,6 +29,7 @@ def do_one_job(keyword,publication,urllist,titlepatten):
     number = 0
     file=codecs.open(outfile, 'w', 'utf-8')
     for url in urllist:
+        print("debug:",url)
         html = get_one_page(url)
         #print(html)
         pattern = re.compile(titlepatten, re.S)
@@ -36,7 +38,7 @@ def do_one_job(keyword,publication,urllist,titlepatten):
             if item.lower().find(keyword.lower()) > -1:
                 file.write(item.strip()+'\n')
                 number=number+1
-        file.write('\n')
+        # file.write('\n')
     file.close()
     print(keyword +'_'+publication+" : "+str(number))
     return number

@@ -1,3 +1,0 @@
-A Model of Zero-Shot Learning of Spoken Language Understanding
-Image-Mediated Learning for Zero-Shot Cross-Lingual Document Retrieval
-

@@ -1,2 +1,0 @@
-Optimal learning via local entropies and sample compression
-

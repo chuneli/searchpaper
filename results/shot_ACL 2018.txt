@@ -1,6 +1,0 @@
-Zero-shot Learning of Classifiers from Natural Language Quantification
-Zero-Shot Transfer Learning for Event Extraction
-A Deep Relevance Model for Zero-Shot Document Filtering
-Interactive Language Acquisition with One-shot Visual Concept Learning through a Conversational Game
-
-

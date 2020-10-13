@@ -1,9 +1,0 @@
-Adaptive Stochastic Natural Gradient Method for One-Shot Neural Architecture Search
-Infinite Mixture Prototypes for Few-shot Learning
-LGM-Net: Learning to Generate Matching Networks for Few-Shot Learning
-Zero-Shot Knowledge Distillation in Deep Networks
-AutoVC: Zero-Shot Voice Style Transfer with Only Autoencoder Loss
-TapNet: Neural Network Augmented with Task-Adaptive Projection for Few-Shot Learning
-Context-Aware Zero-Shot Learning for Object Recognition
-Co-Representation Network for Generalized Zero-Shot Learning
-

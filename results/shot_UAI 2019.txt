@@ -1,2 +1,0 @@
-One-Shot Inference in Markov Random Fields
-

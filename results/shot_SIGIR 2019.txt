@@ -1,2 +1,0 @@
-Identifying Entity Properties from Text with Zero-shot Learning
-

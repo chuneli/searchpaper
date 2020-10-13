@@ -1,3 +1,0 @@
-Optimization as a Model for Few-Shot Learning
-Snapshot Ensembles: Train 1, Get M for Free
-

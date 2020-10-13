@@ -1,4 +1,0 @@
-DARLA: Improving Zero-Shot Transfer in Reinforcement Learning
-Schema Networks: Zero-shot Transfer with a Generative Causal Model of Intuitive Physics
-Zero-Shot Task Generalization with Multi-Task Deep Reinforcement Learning
-

@@ -1,5 +1,0 @@
-Compare, Compress and Propagate: Enhancing Neural Architectures with Alignment Factorization for Natural Language Inference
-Sentence Compression for Arbitrary Languages via Multilingual Pivoting
-Bayesian Compression for Natural Language Processing
-Revisiting Character-Based Neural Machine Translation with Capacity and Compression
-
