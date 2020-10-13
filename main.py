@@ -29,7 +29,7 @@ def do_one_job(keyword,publication,urllist,titlepatten):
     number = 0
     file=codecs.open(outfile, 'w', 'utf-8')
     for url in urllist:
-        print("debug:",url)
+        # print("debug:",url)
         html = get_one_page(url)
         #print(html)
         pattern = re.compile(titlepatten, re.S)

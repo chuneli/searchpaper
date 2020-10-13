@@ -1,0 +1,42 @@
+onedict={
+    'publication': 'NIPS 2020',
+    'urllist': ['https://nips.cc/Conferences/2020/AcceptedPapersInitial'],
+    'titlepatten': '<p><b>(.*?)</b><br><i>',
+}
+
+
+onedict={
+    'publication': 'ICML 2020',
+    'urllist': ['https://proceedings.icml.cc/book/2020'],
+    'titlepatten': '<li><a href="/paper/2020/hash/.*?">(.*?)</a> <i>'
+ }
+
+
+
+onedict={
+    'publication': 'EMNLP 2019',
+    'urllist': ['https://www.emnlp-ijcnlp2019.org/program/accepted/'],
+    'titlepatten': '<li><span style="color:cornflowerblue">(.*?)</span>',
+}
+resources.append(onedict)
+onedict={
+    'publication': 'EMNLP 2020',
+    'urllist': ['https://2020.emnlp.org/papers/main'],
+    'titlepatten': '<span class="paper-title">(.*?)<!-- -->. </span><span class="paper-authors">'
+}
+resources.append(onedict)
+
+ 
+onedict={
+    'publication': 'KR 2020',
+    'urllist': ['https://library.confdna.com/kr/2020/'],
+    'titlepatten': '<li><div class="track_paperinfo__1BUI8"><a href="/kr/2020/.*?/">(.*?)</a>.<!-- -->',
+}
+resources.append(onedict)
+
+onedict={
+    'publication': 'UAI 2020',
+    'urllist': ['http://www.auai.org/uai2020/accepted.php'],
+    'titlepatten': '<br/><br/><br/></h5></td><td><h4>(.*?)</h4>',
+}
+resources.append(onedict)
